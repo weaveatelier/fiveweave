@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="assets/fiveweave_logo.png" alt="다섯결 로고" width="160" />
 </p>
 
