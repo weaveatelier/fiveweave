@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/fiveweave_logo.png" alt="FiveWeave logo" width="160" />
+</p>
+
 # FiveWeave
 
 **Personality can be understood more deeply than simple type labels suggest. Built on the BIG5 model, FiveWeave helps people understand themselves and one another through a more grounded and nuanced view of personality.**

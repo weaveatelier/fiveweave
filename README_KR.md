@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/fiveweave_logo.png" alt="다섯결 로고" width="160" />
+</p>
+
 # 다섯결 (FiveWeave)
 
 **성격은 단순한 유형 라벨이 암시하는 것보다 더 깊이 이해될 수 있습니다. 다섯결은 BIG5 모델을 바탕으로, 더 근거 있고 정교한 성격 관점을 통해 자신과 서로를 이해하도록 돕습니다.**
